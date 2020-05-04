@@ -9,6 +9,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 months = ['january', 'february', 'march', 'april', 'may', 'june','all']
 days= ['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
 
+#Change number 1 to commit in refactoring branch
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
