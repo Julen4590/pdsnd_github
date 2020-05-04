@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+05/01/2020
 
 ### Project Title
-Replace the Project Title
+bikeshare_project
 
 ### Description
-Describe what your project is about and what it does
+It shows various statistics about the use of a bikeshare service in different cities such as Washington, New york and Chicago.
 
 ### Files used
-Include the files used
+bikeshare_project.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://knowledge.udacity.com/?nanodegree=nd104&page=1&project=328&rubric=1379&sort=SCORE
