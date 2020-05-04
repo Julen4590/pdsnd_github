@@ -9,7 +9,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 months = ['january', 'february', 'march', 'april', 'may', 'june','all']
 days= ['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
 
-#This is just a quick change to commit and show the progress in GitHub project
+
+#Merged commits
 
 def get_filters():
     """
