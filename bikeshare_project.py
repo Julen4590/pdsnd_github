@@ -9,9 +9,11 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 months = ['january', 'february', 'march', 'april', 'may', 'june','all']
 days= ['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
 
+#This is just a quick change to commit and show the progress in GitHub project
+
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    **Asks user to specify a city, month, and day to analyze.**
 
     Returns:
         (str) city - name of the city to analyze
