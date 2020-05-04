@@ -11,6 +11,8 @@ days= ['monday','tuesday','wednesday','thursday','friday','saturday','sunday','a
 
 #Change number 1 to commit in refactoring branch
 
+#Change number 2 to commit in refactoring branch
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
